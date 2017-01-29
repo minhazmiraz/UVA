@@ -5,4 +5,4 @@
     International Islamic University Chittagong (IIUC)
   
 
-# Please ignore this repository. This is just a private repository which i used to store all my program file created or solved (will create) in my entire university life.
+# Please ignore this repository. This is just a private repository which i used to store all my solved UVA program file.
